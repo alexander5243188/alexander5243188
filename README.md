@@ -42,7 +42,6 @@ Desarrollador freelance apasionado por la creación de soluciones innovadoras y 
 - **Código fuente:** [Ver en GitHub](https://github.com/usuario/proyecto2)
 
 ## Estadísticas de GitHub
-![Estadísticas del repositorio](ruta/de/las/estadisticas.png)
-![](./profile-3d-contrib/profile-git-block-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
