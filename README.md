@@ -1,3 +1,6 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alexander!;" />
+</h1>
 # 💫 About Me:
 I am working on medical appointment system
 
@@ -76,6 +79,7 @@ I am working on medical appointment system
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Alexander5243188&limit=5&theme=dark&combine_all_yearly_contributions=true)
