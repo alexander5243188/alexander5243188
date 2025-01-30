@@ -43,5 +43,6 @@ Desarrollador freelance apasionado por la creación de soluciones innovadoras y 
 
 ## Estadísticas de GitHub
 ![Estadísticas del repositorio](ruta/de/las/estadisticas.png)
+![](./profile-3d-contrib/profile-git-block-animate.svg)
 
 
