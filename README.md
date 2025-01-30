@@ -1,10 +1,8 @@
-## Hi there 👋
-
 <!--
 **alexander5243188/alexander5243188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <h1>I'm Alexander</h1>
+  <h4>a freelance developer.</h4>
+</div>
+<details>
+  <sumary>about</sumary>
+  <div>
+    <samp> 
+      <h2>About this Account</h2>
+    </samp>
+  </div>
+</details>
