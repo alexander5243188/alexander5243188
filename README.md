@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estoy trabajando en sistema de citas medicas
+I am working on medical appointment system
 
 
 ## 🌐 Socials:
