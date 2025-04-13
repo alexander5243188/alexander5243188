@@ -14,7 +14,7 @@
     <li>HTML, CSS, JavaScript</li>
     <li>React, Node.js, Vue 3</li>
     <li>Laravel, PHP, Angular</li>
-    <li>Flutter, Kotlin, Firebase</li>
+    <li>Firebase</li>
     <li>PostgreSQL, MongoDB, MariaDB</li>
   </ul>
 </div>
@@ -23,18 +23,17 @@
   <h2 style="color: cyan;">🚀 Proyectos Retro y Futuristas</h2>
   <ul style="color: lime;">
     <li>👩‍⚕️ Sistema veterinario digital</li>
-    <li>🍽 Carta QR digital (restaurantes)</li>
-    <li>🎓 Plataforma educativa MEAN</li>
-    <li>📡 App tipo Uber (Firebase + Kotlin)</li>
-    <li>🛠 CMS estilo Strapi en PHP</li>
+    <li>🍽 Carta digital (restaurante)</li>
+    <li>🎓 Plataforma educativa </li>
+    <li>📡 App tipo Uber</li>
+    <li>🛠 CMS estilo Strapi</li>
   </ul>
 </div>
 
-<div class="box" style = "border: 2px dashed lime; padding: 10px; margin-bottom: 20px;">
-  <h2 style="color: cyan;">📚 Cursos y Aprendizajes</h2>
-  <p style="color: lime;" >Formación continua en:</p>
+<div class="box" style = "border: 2px dashed lime; padding: 10px; margin-bottom: 20px;">  
+  <p style="color: lime;" >📚Formación continua en:</p>
   <ul style="color: lime;">
-    <li>Laravel, Vue, Angular, React</li>
+    <li>Laravel, Angular, React</li>
     <li>Apps móviles, backend, APIs</li>
     <li>Productividad, Blockchain, Ciberseguridad</li>
     <li>Con enfoque autodidacta y curioso 👀</li>
@@ -44,8 +43,8 @@
 <div class="box" style = "border: 2px dashed lime; padding: 10px; margin-bottom: 20px;">
   <h2 style="color: cyan;">🌍 Conecta con axa_dev</h2>
   <ul style="color: lime;">
-    <li style="color: lime;"><a href="https://github.com/alexander5243188" target="_blank">GitHub: @alexander5243188</a></li>
-    <li style="color: lime;"><a href="https://www.linkedin.com/in/alexander-vega-ab1ab8162/" target="_blank">LinkedIn: Alexander Vega</a></li>
+    <li style="color: lime;"><a href="#" target="_blank">GitHub: @alexander5243188</a></li>
+    <li style="color: lime;"><a href="#" target="_blank">LinkedIn: Alexander</a></li>
     <li style="color: lime;"><span class="blink">Sitio web en construcción...</span></li>
   </ul>
 </div>
